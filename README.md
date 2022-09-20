@@ -2,11 +2,14 @@
 * Do not use this code for illegal stuff!
 * If you use it for illegal stuff its not my blame!
 * Orbit VIP edition
-# Imports:
+* [-> IMPORTANT READ THIS <-](https://github.com/TxcToxic/Orbit-Fake-Injector#orbit-message)
+# Requires:
 * psutil
+* [Python 3.10](https://www.python.org/downloads/) *or higher*
+* [Windows 10](https://www.microsoft.com/en-us/windows/) *or higher*
 # Others:
-* **Orbit will only run until 1/1/2022!** | **any other** services are **fake, you'll get scammed!**
-### Orbit Message:
+* **Orbit will only run until 1/1/2023!** | **any other** services are **fake, you'll get scammed!**
+### [Orbit Message](https://discord.com/channels/839643665218404382/839648338956517386/1006585423671337112):
 ```
 Please Read
 Dear Orbit users, 
@@ -27,4 +30,4 @@ I want to thank everyone for being apart of Orbit, especially our staff, you guy
 
 I'm sorry to those who are upset with this, but I physically can't keep up with everything, it's been a pleasure.
 ```
-###### Message from: [maxi#8008](https://discord.com/users/771812798300291073) | [Discord](https://discord.gg/NhQ3QXtPUw)
+###### Message INFO: [maxi#8008](https://discord.com/users/771812798300291073) | [Discord Link](https://discord.gg/NhQ3QXtPUw) | [Message Link](https://discord.com/channels/839643665218404382/839648338956517386/1006585423671337112)
