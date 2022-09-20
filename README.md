@@ -2,6 +2,7 @@
 * Do not use this code for illegal stuff!
 * If you use it for illegal stuff its not my blame!
 * Orbit VIP edition
+* **Exe could be detected as a Virus!**
 * [-> IMPORTANT READ THIS <-](https://github.com/TxcToxic/Orbit-Fake-Injector#orbit-message)
 # Requires:
 * psutil
