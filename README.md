@@ -2,6 +2,8 @@
 * Do not use this code for illegal stuff!
 * If you use it for illegal stuff its not my blame!
 * Orbit VIP edition
+# Imports:
+* psutil
 # Others:
 * **Orbit will only run until 1/1/2022!** | **any other** services are **fake, you'll get scammed!**
 ### Orbit Message:
